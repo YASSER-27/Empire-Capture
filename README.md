@@ -1,6 +1,8 @@
 # Empire-Capture
 high-performance, minimalist screen and window recording
+
 ![logo](example/logo.png)
+
 
 # [Empire-Capture](https://github.com/YASSER-27/Empire-Capture/releases)
 
