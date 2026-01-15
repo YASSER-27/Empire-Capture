@@ -7,9 +7,9 @@ high-performance, minimalist screen and window recording
 ---
 ## 📸 Screenshots
 
-![Feature 1](YassirSnap_2.png) 
-![Feature 2](YassirSnap_1.png) 
-![Feature 3](YassirSnap_3.png)
+![Feature 1](example/YassirSnap_2.png) 
+![Feature 2](example/YassirSnap_1.png) 
+![Feature 3](example/YassirSnap_3.png)
 
 ---
 
